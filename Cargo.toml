@@ -1,0 +1,6 @@
+[package]
+name = "OpenHM"
+version = "0.1.0"
+authors = ["stormchaser3000"]
+
+[dependencies]
